@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_cloudy2"
+        android:title="Weather"/>
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_gear"
+        android:title="Settings"/>
+</menu>
